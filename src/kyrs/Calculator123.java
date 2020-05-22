@@ -25,7 +25,7 @@ public class Calculator123 extends JFrame {
 	   private JButton razh = new JButton("Рассчитать");
 	
 	 JLabel label5 =new JLabel("");
-	 private JButton new1= new JButton("кнопка");
+	 private JButton new1= new JButton("кнопкаААААААААААААААААААААА");
 	 private JLabel new2= new JLabel("Косарев А.В.");
 	    private JLabel razr =new JLabel("Разрешение камеры:");
 	    private JLabel format =new JLabel("Формат сжатия:");
